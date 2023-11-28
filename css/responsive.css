@@ -1,0 +1,309 @@
+
+@media screen and (max-width: 1376px) {
+    .calender img{
+        width: 30%;
+        height: 80%;
+    }
+    .calen_6{
+        margin-left: -150px;
+        width: 50%;
+    }
+}
+/* @media screen and (max-width: 1300px) {
+    .membership,.national,.club{
+        margin-left: 7.3%;
+    }
+} */
+@media screen and (max-width: 1200px) {
+    .hero_section{
+        margin-left: 7%;
+    }
+    .hero_section h2{
+        font-size: 51px;
+    }
+    .hero_section h3{
+        font-size: 53px;
+        font-weight: 400;
+    }
+    .hero_section img{
+        max-width: 280px;
+        margin-top: -220px;
+        margin-right: -10%;
+    }
+    .hero_section button{
+        padding: 11px 30px;
+
+    }
+    .achievement{
+        display: flex;
+        flex-direction: column;
+        height: 500px;
+    }
+    .section_heading{
+        margin: 0 auto;
+        width: 400px;
+    }
+    .counts{
+        margin: 0 auto;
+        background-color: aqua;
+        width: 0;
+        margin-top: 50px;
+    }
+    .calender img{
+        width: 300px;
+        height: 350px;
+        margin-top: 100px;
+    }
+    .calen_5,.calen_6 button{
+        margin-left: -70px;
+    }
+    .customer img{
+        width: 300px;
+        margin-top: 3%;
+    }
+    .cus_content p{
+        font-size: 13px;
+        margin-top: 5%;
+        margin-left: -15%;
+    }
+    .cus_content h5, small,.cus_footer{
+        margin-left: -15%;
+    }
+    .cus_footer img{
+        width: 40px;
+    }
+    .cus_footer a{
+        margin-top: 18px;
+        font-size: 15px;
+    }
+    .cus_footer i{
+        padding-top: 15px;
+        display: inline;
+    }
+    .com_up{
+        height: 90rem;
+    }
+    .com_pic{
+        margin-top: 50px;
+        display: grid;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .pic_2 , .pic_3{
+        margin-top:30px;
+    }
+}
+@media screen and (max-width:1160px) {
+
+    .unlock{
+        width: 100%;
+        height: 600px;
+        margin-top: 100px;
+    }
+    .unlock img{
+        width: 422px;
+        height: 413px;
+        margin-left: 5%;
+        float:left;
+    }
+    .frame_5 h3{
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .frame_5 p{
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .learn_more{
+        width: 140px;
+        height: 43px;
+        padding: 10px 28px;
+        margin: 30px 0px 0px 100px;
+    }
+    .row_1 a:nth-child(2){
+        margin: -13px 0px 0px 4%
+    }
+    .row_1 a:nth-child(3){
+        margin: -40px 0px 0px 82%;
+    }
+    .row_1 a:nth-child(4){
+        margin: -40px 0px 0px 130%;
+        width: 75px;  
+    }
+    .row_1 a:nth-child(5){
+        margin: -40px 0px 0px 225%  
+    }
+    .row_1 a:nth-child(6){
+        margin: -40px 0px 0px 290%;   
+    }
+
+    .row_2{
+        margin: 85px -90px 0px -236px;
+    }
+    .row_2 a:nth-child(2){
+        margin: -14px 0px 0px 2%;
+    }
+    .row_2 a:nth-child(3){
+        margin: -40px 0px 0px 78%;
+        width: 100px;
+    }
+    .row_2 a:nth-child(4){
+        margin: -40px 0px 0px 170%;
+    }
+    .row_2 a:nth-child(5){
+        margin: -40px 0px 0px 215%;
+        width: 100px; 
+    }
+    .row_2 a:nth-child(6){
+        margin: -40px 0px 0px 300%;   
+    }
+    .row_3{
+        margin: 175px 0px 0px -182px;
+    }
+    .row_3 input{
+        margin: -60px 0px 0px 38%;
+    }
+    .paper_plane i{
+        padding: 0px 0px 0px 155px;
+    }
+}
+@media screen and (max-width: 992px){
+    .footer ul a,
+    .footer .lg_sg a{
+        display: none;
+    }
+    .footer .toggle_btn_1{
+        display: block;
+    }
+    .dropdown_menu{
+        display: block;
+    }
+    .hero_section{
+        margin-left: 6%;
+    }
+    .hero_section h2{
+        font-size: 40px;
+    }
+    .hero_section p{
+        font-size: 13px;
+    }
+    .hero_section h3{
+        font-size: 42px;
+        font-weight: 400;
+    }
+    .hero_section img{
+        max-width: 220px;
+        margin-top: -185px;
+    }
+    .hero_section button{
+        padding: 9px 28px;
+
+    }
+    .home{
+        height: 560px;
+    }
+    .dot1,.dot2,.dot3{
+        width: 10px;
+        height: 10px;
+        margin-top: 530px;
+    }
+    .unlock{
+        width: 100%;
+        height: 600px;
+        margin-top: 100px;  
+    }
+    .unlock img{
+        width: 370px;
+        height: 360px;
+        margin-left: 1%;
+        float:left;
+    }
+    .frame_5{
+        margin-left: 25px;
+    }
+    .frame_5 h3{
+        font-weight: 600;
+        font-size: 25px;
+    }
+    .frame_5 p{
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .learn_more{
+        font-size: 15px;
+        text-align: center;
+        padding: 10px 28px;
+        margin: 30px 0px 0px 40px;
+    }
+    .tittle{
+        margin-top: 12%;
+    }
+}
+@media screen and (max-width: 768px){
+    .hero_section{
+        margin-left: 2%;
+    }
+    .hero_section h3{
+        font-size: 36px;
+        font-weight: 400;
+    }
+    .hero_section h2{
+        font-size: 34px;
+        font-weight: 400;
+    }
+    .hero_section p{
+        font-size: 10px;
+    }
+    .hero_section img{
+        max-width: 200px;
+        margin-top: -170px;
+        margin-right: -17%;
+    }
+    .hero_section button{
+        font-size: 14px;
+    }
+    .home{
+        height: 490px;
+    }
+    .dot1,.dot2,.dot3{
+        width: 8px;
+        height: 8px;
+        margin-top: 470px;
+    }
+}
+@media screen and (max-width: 576px){
+    .dropdown_menu{
+        left: 4rem;
+        width: unset;
+    }
+    .dropdown_sigup{
+        margin-left: 25%;
+    }
+
+    .hero_section h3{
+        font-size: 31px;
+        font-weight: 400;
+    }
+    .hero_section h2{
+        font-size: 29px;
+        font-weight: 400;
+    }
+    .hero_section p{
+        font-size: 9px;
+    }
+    .hero_section img{
+        max-width: 160px;
+        margin-top: -145px;
+    }
+    .hero_section button{
+        font-size: 11px;
+    }
+    .home{
+        height: 440px;
+    }
+    .dot1,.dot2,.dot3{
+        width: 7px;
+        height: 7px;
+        margin-top: 420px;
+    }
+}
